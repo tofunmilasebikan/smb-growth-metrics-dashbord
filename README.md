@@ -12,7 +12,8 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 ```
 
-Then open **http://localhost:8503** in your browser.
+Then open **http://localhost:8505** in your browser.
+
 
 ---
 
