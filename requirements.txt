@@ -1,0 +1,26 @@
+# SMB Growth Metrics Dashboard - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Database (DuckDB chosen for its excellent CSV handling and SQL:2016 support)
+duckdb>=0.9.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+nbformat>=5.9.0
+nbconvert>=7.0.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Utilities
+python-dateutil>=2.8.0
